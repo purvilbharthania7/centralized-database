@@ -1,0 +1,2 @@
+empid|empname|empemail|empphone|empaddress
+2|suchitra|s@dal.ca|098765434|Toronto

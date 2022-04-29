@@ -1,0 +1,6 @@
+Table|Column|Data type|Primary Key|Foreign key|Foreign table
+Orders|OrderID|int|OrderID||
+Orders|OrderNumber|int|||
+Orders|PersonID|int||PersonID|Persons
+Persons|PersonID|int|PersonID||
+Persons|PersonName|varchar(255)|||

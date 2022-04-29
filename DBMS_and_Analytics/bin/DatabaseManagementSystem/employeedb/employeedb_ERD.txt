@@ -1,0 +1,20 @@
+
+  Schema: employeedb                 Table: Orders
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+         Column Name           Data type           Size         Primary Key         Foreign Key      Foreign Column       Foreign Table        Cardinality
+
+             OrderID                 int              -                  PK                   -                   -                   -                   -
+
+         OrderNumber                 int              -                   -                   -                   -                   -                   -
+
+            PersonID                 int              -                   -                  FK            PersonID             Persons                 1:1
+
+
+  Schema: employeedb                Table: Persons
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+         Column Name           Data type           Size         Primary Key         Foreign Key      Foreign Column       Foreign Table        Cardinality
+
+            PersonID                 int              -                  PK                   -                   -                   -                   -
+
+          PersonName             varchar            255                   -                   -                   -                   -                   -
+

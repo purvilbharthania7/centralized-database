@@ -1,0 +1,4 @@
+columns|type|primary key|foreign key
+OrderID|int| |
+OrderNumber|int| |
+PersonID|int| |

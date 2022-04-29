@@ -1,0 +1,3 @@
+Table|Column|Data type|Primary Key|Foreign key|Foreign table
+person|ContactName|varchar(255)|||
+person|City|varchar(255)|||

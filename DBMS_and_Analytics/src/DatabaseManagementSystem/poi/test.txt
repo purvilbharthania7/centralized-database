@@ -1,0 +1,2 @@
+empId|salary
+2|1234

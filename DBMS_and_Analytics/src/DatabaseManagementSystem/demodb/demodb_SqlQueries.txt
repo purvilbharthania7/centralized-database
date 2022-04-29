@@ -1,0 +1,2 @@
+create table person (ContactName varchar(255), City varchar(255));
+INSERT INTO person (ContactName, City) VALUES ('dinal', 'Skagen21');
